@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Work\Test8\Demo\SDK-DEMO\build\intermediates\exploded-aar\Test8.Lib\DJI-SDK-LIB\unspecified\jars\libs\eventbus.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c385f09de6bebe13a4b9465d5937789314ba6372">
+        <dex dex="C:\Work\Test8\Demo\SDK-DEMO\build\intermediates\pre-dexed\debug\eventbus-cd3cd338256c0b50c91fc38c8262775faf367bbc.jar" />
+    </item>
+    <item
+        jar="C:\Work\Test8\Demo\SDK-DEMO\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\6.5.87\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="C:\Work\Test8\Demo\SDK-DEMO\build\intermediates\pre-dexed\debug\classes-d1028f250746e1e085c719070d2a5a26ab263784.jar" />
+    </item>
+    <item
+        jar="C:\Users\Clover\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="C:\Work\Test8\Demo\SDK-DEMO\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-d3aca0b60a3f1aa421907dafcc6e08c792266b61.jar" />
+    </item>
+    <item
+        jar="C:\Work\Test8\Demo\SDK-DEMO\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\6.5.87\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a75b29dc51b364df032af8bcfcad7e54ccfda28d">
+        <dex dex="C:\Work\Test8\Demo\SDK-DEMO\build\intermediates\pre-dexed\debug\classes-47b727584764fbbefc086730bb14150731b51a13.jar" />
+    </item>
+    <item
+        jar="C:\Work\Test8\Demo\SDK-DEMO\build\intermediates\exploded-aar\Test8.Lib\DJI-SDK-LIB\unspecified\jars\libs\pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="58b76ee1873cb1e917c0ebfe14e73330f83a5ec2">
+        <dex dex="C:\Work\Test8\Demo\SDK-DEMO\build\intermediates\pre-dexed\debug\pinyin4j-2.5.0-b9a228ba8ce64c7d154cd08396490da5791c2ec3.jar" />
+    </item>
+    <item
+        jar="C:\Work\Test8\Demo\SDK-DEMO\build\intermediates\exploded-aar\Test8.Lib\DJI-SDK-LIB\unspecified\jars\libs\bouncycastle.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a9efec0f26271cb2cfe90f181282424ae0329fc5">
+        <dex dex="C:\Work\Test8\Demo\SDK-DEMO\build\intermediates\pre-dexed\debug\bouncycastle-73a13e01f996c17d6655fdaee50c5e3984df46c5.jar" />
+    </item>
+    <item
+        jar="C:\Work\Test8\Demo\SDK-DEMO\build\intermediates\exploded-aar\Test8.Lib\DJI-SDK-LIB\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="96796ebd25800cc37730f69455502a303002b004">
+        <dex dex="C:\Work\Test8\Demo\SDK-DEMO\build\intermediates\pre-dexed\debug\classes-3d87cf2df449757cb6a262245e9feab64f22c9d0.jar" />
+    </item>
+    <item
+        jar="C:\Work\Test8\Demo\SDK-DEMO\build\intermediates\exploded-aar\Test8.Lib\DJI-SDK-LIB\unspecified\jars\libs\mygson-2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f72fde05619ba1d6f9e58bc5ee80110bf4e1f650">
+        <dex dex="C:\Work\Test8\Demo\SDK-DEMO\build\intermediates\pre-dexed\debug\mygson-2.0-f4e0fbbea01f30df18076e69537063085e430e57.jar" />
+    </item>
+    <item
+        jar="C:\Work\Test8\Demo\SDK-DEMO\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="C:\Work\Test8\Demo\SDK-DEMO\build\intermediates\pre-dexed\debug\classes-a900fdb03fcf10ff05b23f73d939007eb3af287c.jar" />
+    </item>
+    <item
+        jar="C:\Work\Test8\Demo\SDK-DEMO\build\intermediates\exploded-aar\Test8.Lib\DJI-SDK-LIB\unspecified\jars\libs\dji-sdk.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fdd0989a26d9a9c235e77ce611594a94b2703c86">
+        <dex dex="C:\Work\Test8\Demo\SDK-DEMO\build\intermediates\pre-dexed\debug\dji-sdk-e9ab9a696e33919c33c265115fdd126d4a6d4cab.jar" />
+    </item>
+    <item
+        jar="C:\Work\Test8\Demo\SDK-DEMO\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="C:\Work\Test8\Demo\SDK-DEMO\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-86913789951b7bb39d821bf613065c42b993e98e.jar" />
+    </item>
+
+</items>
